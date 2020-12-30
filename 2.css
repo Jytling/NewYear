@@ -1,0 +1,20 @@
+.block {
+    width: 150em;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 500px 400px;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: 100px;
+    background-image: linear-gradient(180deg, rgb(139, 139, 139), rgb(139, 139, 139) 40%, rgb(139, 139, 139));
+  }
+
+  body {background: url(https://webfon.top/wp-content/uploads/2018/12/temnye-snezhinki.jpg) left top repeat;}
+  .block2 {
+    width: 150em;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: 100px;
+  }
+  div{
+    text-align: center;
+}

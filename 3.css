@@ -1,0 +1,17 @@
+.lol{
+ display: inline-block;
+ background: #000000;
+   color: #ff0000;
+  padding: 10px;
+   border-radius: 70px;
+   text-decoration: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 500;
+  
+}    
+div {
+    margin: 20px;
+    text-align: center;
+  }
